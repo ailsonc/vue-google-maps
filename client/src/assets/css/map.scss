@@ -1,0 +1,26 @@
+#container-iw  #title-iw {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    background-color: #e51937;
+    color: white;
+    margin: 1px;
+ }
+.left{
+    text-align: left;
+}
+.button {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    background-color: #e51937;
+    color: white;
+    border: none;
+    text-align: center;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button:hover {opacity:0.8}
