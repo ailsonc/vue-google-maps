@@ -14,3 +14,7 @@ settings: npm run swagger
 
 # Client
 run: npm start
+
+# Get API Key
+scr/plugins/google-maps-plugin.js
+GoogleMapsLoader.KEY = "[YOUR_API_KEY]"

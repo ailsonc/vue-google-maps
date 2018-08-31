@@ -1,6 +1,6 @@
 import Vue from "vue";
 import GoogleMapsLoader from "google-maps";
-GoogleMapsLoader.KEY = "AIzaSyCpVhQiwAllg1RAFaxMWSpQruuGARy0Y1k";
+GoogleMapsLoader.KEY = "[YOUR_API_KEY]";
 GoogleMapsLoader.LIBRARIES = ["visualization"];
 
 const GoogleMapsPlugin = {
